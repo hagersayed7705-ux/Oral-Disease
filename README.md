@@ -1,3 +1,4 @@
+<img width="1917" height="963" alt="oral_image png" src="https://github.com/user-attachments/assets/569dab3e-a406-4bf1-a0fd-50b9e8b9d8fd" />
 🚀 **Oral Diseases Classification Using Deep Learning**
 
 I'm excited to share my **Oral Diseases Image Classification** project, where I applied Deep Learning techniques to build an AI-based image classification system.
