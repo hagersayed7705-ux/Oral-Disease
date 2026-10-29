@@ -1,5 +1,3 @@
-# Oral-Disease
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/7a920044-adfc-4922-87b4-f07078e75bcc" />
 🚀 **Oral Diseases Classification Using Deep Learning**
 
 I'm excited to share my **Oral Diseases Image Classification** project, where I applied Deep Learning techniques to build an AI-based image classification system.
